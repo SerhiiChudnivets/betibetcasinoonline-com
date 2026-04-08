@@ -25,10 +25,10 @@
       "is_homepage": false,
       "order": 0,
       "createdAt": "2026-04-08T17:09:28.927Z",
-      "updatedAt": "2026-04-08T17:09:28.927Z",
+      "updatedAt": "2026-04-08T17:28:48.482Z",
       "publishedAt": null,
       "locale": null,
-      "template": "default",
+      "template": "landing",
       "faq_title": "Ofte Stillede Spørgsmål om BetiBet Casino",
       "hero_image": null,
       "sections": [],
@@ -383,8 +383,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T17:10:00.517Z",
+  "_generated_at": "2026-04-08T17:29:12.108Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T17:10:02.418Z",
-  "_deploy_trigger": "3xsvm"
+  "_last_deploy": "2026-04-08T17:29:12.654Z",
+  "_deploy_trigger": "gfoqix"
 }
