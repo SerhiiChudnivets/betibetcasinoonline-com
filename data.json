@@ -147,40 +147,64 @@
   "color_main_btn_text": null,
   "redirect_link": "https://visquick.com/go",
   "logo": {
-    "id": 42,
-    "name": "logo.webp",
-    "url": "/uploads/logo_ff5973c047.webp",
+    "id": 118,
+    "name": "banner.webp",
+    "url": "/uploads/banner_7e6a8b44b7.webp",
     "formats": {
+      "small": {
+        "ext": ".webp",
+        "url": "/uploads/small_banner_7e6a8b44b7.webp",
+        "hash": "small_banner_7e6a8b44b7",
+        "mime": "image/webp",
+        "name": "small_banner.webp",
+        "path": null,
+        "size": 8.9,
+        "width": 500,
+        "height": 262,
+        "sizeInBytes": 8900
+      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_ff5973c047.webp",
-        "hash": "thumbnail_logo_ff5973c047",
+        "url": "/uploads/thumbnail_banner_7e6a8b44b7.webp",
+        "hash": "thumbnail_banner_7e6a8b44b7",
         "mime": "image/webp",
-        "name": "thumbnail_logo.webp",
+        "name": "thumbnail_banner.webp",
         "path": null,
-        "size": 4.18,
+        "size": 3.62,
         "width": 245,
-        "height": 135,
-        "sizeInBytes": 4182
+        "height": 129,
+        "sizeInBytes": 3620
       }
     }
   },
   "popup_logo": {
-    "id": 40,
-    "name": "logo.webp",
-    "url": "/uploads/logo_92644c3081.webp",
+    "id": 119,
+    "name": "banner.webp",
+    "url": "/uploads/banner_ba5738e324.webp",
     "formats": {
+      "small": {
+        "ext": ".webp",
+        "url": "/uploads/small_banner_ba5738e324.webp",
+        "hash": "small_banner_ba5738e324",
+        "mime": "image/webp",
+        "name": "small_banner.webp",
+        "path": null,
+        "size": 8.9,
+        "width": 500,
+        "height": 262,
+        "sizeInBytes": 8900
+      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_92644c3081.webp",
-        "hash": "thumbnail_logo_92644c3081",
+        "url": "/uploads/thumbnail_banner_ba5738e324.webp",
+        "hash": "thumbnail_banner_ba5738e324",
         "mime": "image/webp",
-        "name": "thumbnail_logo.webp",
+        "name": "thumbnail_banner.webp",
         "path": null,
-        "size": 4.18,
+        "size": 3.62,
         "width": 245,
-        "height": 135,
-        "sizeInBytes": 4182
+        "height": 129,
+        "sizeInBytes": 3620
       }
     }
   },
@@ -383,8 +407,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T17:29:12.108Z",
+  "_generated_at": "2026-04-09T17:24:08.760Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T17:29:12.654Z",
-  "_deploy_trigger": "gfoqix"
+  "_last_deploy": "2026-04-09T17:24:09.305Z",
+  "_deploy_trigger": "xb1o9o"
 }
